@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CB Pay</string>
+    <string name="flavor_name">This is Production Flavor.</string>
+</resources>

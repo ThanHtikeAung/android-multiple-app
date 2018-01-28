@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CB Pay UAT</string>
+    <string name="flavor_name">This is UAT Flavor.</string>
+</resources>
